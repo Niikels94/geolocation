@@ -34,16 +34,19 @@ jsonpatch==1.22
 jsonpointer==2.0
 jsonschema==3.2.0
 keyring==18.0.1
+leaflet==0.0.3
 language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
 MarkupSafe==2.1.2
 more-itertools==4.2.0
+numpy==1.25.1
 netifaces==0.10.4
 oauthlib==3.1.0
 platformdirs==3.8.1
 psycopg2-binary==2.9.6
+pycodestyle==2.10.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 PyGObject==3.36.0
@@ -68,6 +71,7 @@ ssh-import-id==5.10
 systemd-python==234
 Twisted==18.9.0
 typing-extensions==4.7.1
+tzdata==2023.3
 ubuntu-advantage-tools==20.3
 ufw==0.36
 unattended-upgrades==0.1
